@@ -1,0 +1,28 @@
+_repo: Ausgew-hlte-Gedichte_6820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6820'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 18th century'
+- GITenberg
+tableOfContents: "Der über uns\r\nIch\r\nLob der Faulheit"
+title: Ausgewählte Gedichte
+url: http://www.gutenberg.org/ebooks/6820
